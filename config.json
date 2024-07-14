@@ -1,0 +1,12 @@
+{
+    "hosts": {
+        "jade.ath": {
+            "user": "admin",
+            "passwd": "admin",
+            "outlets": [
+                {"id": 3, "on_time": 800, "off_time": 1400},
+                {"id": 4, "on_time": 800, "off_time": 1600}
+            ]
+        }
+    }
+}
